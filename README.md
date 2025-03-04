@@ -3,7 +3,7 @@
 **ResBot** is an **Arduino-powered, four-wheeled robot** designed for delivering **medical and emergency supplies** (e.g., food, water, medicine) in challenging environments such as **earthquakes, hurricanes, and rough terrains**. It features **WiFi control via a smartphone**, **obstacle detection**, and a **camera** for remote monitoring.
 
 ## 📸 Screenshots
-![ResBot in Action](./assets/resbot-demo.png)
+![ResBot in Action](./assets/resbot1.png)
 
 ## 🚀 Features
 - 🏎️ **Four-wheel drive** for stability and movement.
